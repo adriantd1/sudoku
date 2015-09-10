@@ -71,10 +71,6 @@ class Sudoku
 		}
 	}
 
-    /*****************************************************************************/
-    /* NOTE: YOU SHOULD NOT HAVE TO MODIFY ANY OF THE FUNCTIONS BELOW THIS LINE. */
-    /*****************************************************************************/
- 
     /* Default constructor.  This will initialize all positions to the default 0
      * value.  Use the read() function to load the Sudoku puzzle from a file or
      * the standard input. */
